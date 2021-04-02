@@ -2,7 +2,7 @@
 
 Hi,
 
-I'm Michael, a hobbyist developer with a [ton of experience in Flask and
+I'm Michael, a developer with a [ton of experience in Flask and
 SQLAlchemy][0].
 
 You can see my portfolio site at [standingwater.io][1] and my blog next door at
