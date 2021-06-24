@@ -1,18 +1,12 @@
-# Well this is cool.
+# 👋 Hi,
 
-Hi,
+I'm Michael Sendker, a software developer from Central Florida obsessed with learning new things. 
 
-I'm Michael, a developer with a [ton of experience in Flask and
-SQLAlchemy][0].
+I've written in a lot of languages and a lot of frameworks. You can see a lot of my work [here][0] on my homepage. I also [write sometimes][1], about whatever's interesting me, which means a lot of philosophy. I recently wrote a 5,000 word essay on the [Negroni and political psychology][2].
 
-You can see my portfolio site at [standingwater.io][1] and my blog next door at
-[blog.standingwater.io][2].
+Also, here's my [résumé][3]. If you're interested in hiring me, you can email me: `m (at) standingwater (dot) io`.
 
-Better, here's a link to my [résumé][3].
-
-If you're interested in hiring me, you can email me: m (at) stdwtr.io.
-
-[0]: https://github.com/malan88/icc
-[1]: https://stdwtr.io
-[2]: https://blog.standingwater.io
+[0]: https://standingwater.io/projects
+[1]: https://standingwater.io/blog
+[2]: https://standingwater.io/210329-negroni/
 [3]: https://github.com/malan88/resume/blob/master/main.pdf
