@@ -4,7 +4,7 @@ I'm Michael Sendker, a software developer from Central Florida obsessed with lea
 
 I've written in a lot of languages and a lot of frameworks. You can see a lot of my work [here][0] on my homepage. I also [write sometimes][1], about whatever's interesting me, which means a lot of philosophy. I recently wrote a 5,000 word essay on the [Negroni and political psychology][2].
 
-Before you ask, my avatar is not me, it is from my favorite film, [Jean Cocteau's Orphée][4]. I use it everywhere.
+Before you ask, as if it wasn't obvious, my avatar is not me, it is from my favorite film, [Jean Cocteau's Orphée][4]. I use it everywhere.
 
 If you're interested in hiring me, here's my [résumé][3], and you can email me: `m (at) standingwater (dot) io`.
 
